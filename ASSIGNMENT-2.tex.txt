@@ -1,0 +1,67 @@
+\documentclass[10pt,a4paper,twoside]{article}
+\usepackage[dutch]{babel}
+%laad de pakketten nodig om wiskunde weer te geven :
+\usepackage{amsmath,amssymb,amsfonts,textcomp}
+%laad de pakketten voor figuren :
+\usepackage{graphicx}
+\usepackage{float,flafter}
+\usepackage{hyperref}
+\usepackage{inputenc}
+%zet de bladspiegel :
+\setlength\paperwidth{20.999cm}\setlength\paperheight{29.699cm}\setlength\voffset{-1in}\setlength\hoffset{-1in}\setlength\topmargin{1.499cm}\setlength\headheight{12pt}\setlength\headsep{0cm}\setlength\footskip{1.131cm}\setlength\textheight{25cm}\setlength\oddsidemargin{2.499cm}\setlength\textwidth{15.999cm}
+
+\begin{document}
+\begin{center}
+\hrule
+
+\vspace{.4cm}
+{\bf {\Huge Assignment 2 - Godel's Incompleteness Theorem}}
+\vspace{.2cm}
+\end{center}
+{\bf Akshita Midha}  (akshitamidha08052001@gmail.com)  \\
+ \hspace{\fill}  22 July 2021 \\
+\hrule
+
+
+
+\section{Godel's Incompleteness Theorem}
+Kurt Godel in 1931. formulated Godel's Incompleteness Theorems which was the compilation of two theorems of mathematical logic that are concerned with the limits of provability in formal axiomatic theories.
+First incompleteness theorem states that no consistent system of anxious whose theorems can be listed by an effective procedures is capable of proving all truths about the arithmetic of natural numbers.
+Second incompleteness theorem shows that there is no algorithm to solve the halting problem.
+
+\section{Formal Systems}
+Incompleteness theorems apply to format systems which are consistent and effectively axiomatized. Formal systems are also called as Formal theories.
+A formal system has certain properties including completeness, consistence and existence of an effective axiomatization and Incompleteness Theorem shows that system which contains a sufficient amount of arithmetic cannot possess all three of these properties.
+
+\subsection{Effective Axiomatization}
+A format set is said to be effectively axiomatized if its set of theorems is a recursively enumerable set.
+
+\subsection{Completeness}
+A set of axioms is complete, if for any statement in the axioms language, that statement or its negotiation is provable from the axioms.
+
+\subsection{Consistency}
+A set if axioms is consistent if there is no statement such that both the statement and its negotiation are provable from the axioms and inconsistent otherwise.
+
+\section{FIRST INCOMPLETENESS THEOREM}
+Any consistent formal system F within which a certain amount of elementary arithmetic can be carried out is incomplete; i.e., there are statements of the language of F which can neither be proved nor disproved in F.
+
+\section{SECOND INCOMPLETENESS THEOREM}
+Assume F is a consistent formalized system which contains elementary arithmetic.
+
+\section{Undecidable Statements}
+Undecidabitity of a statement in a particular deductive system does not, in and of itself, address the question of whether the truth value of the statement is well-defined, or whether it can be determined by other means.
+
+\section{Proof Sketch for the First Theorem}
+The proof of contradiction has three essential parts. Choose a formal system that meets the proposed criteria:
+(1) Statements in the system can be represented by natural numbers.
+(2) It is possible to construct a number whose matching statement when interpreted, is self-referential and essentially says that it is unprovable.
+(3) Statement permits a demonstration that it is neither provable nor disprovable in the system and therefore the system cannot in fact be omega-consistent.
+
+\section{Proof Sketch for the First Theorem}
+The main difficulty in proving the second incompleteness theorem is to show that various facts about provability used in the proof of the first incompleteness theorem can be formalized within the system using predicate for provability. 
+The second incompleteness theorem follows by formalizing the entire proof of the first incompleteness theorem within the system itself.
+
+\section{Conclusion}
+After reading the entire comprehension we can conclude that Godel's incompleteness theorem wasn't completely true but was found to be true over time. Many scientists debated against or in favor of the Godel's theorem. It came across a lot of criticism and appreciation with exploring ideas over time.
+
+\end{document}

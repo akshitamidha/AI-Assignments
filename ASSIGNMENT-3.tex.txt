@@ -1,0 +1,47 @@
+\documentclass[10pt,a4paper,twoside]{article}
+\usepackage[dutch]{babel}
+%laad de pakketten nodig om wiskunde weer te geven :
+\usepackage{amsmath,amssymb,amsfonts,textcomp}
+%laad de pakketten voor figuren :
+\usepackage{graphicx}
+\usepackage{float,flafter}
+\usepackage{hyperref}
+\usepackage{inputenc}
+%zet de bladspiegel :
+\setlength\paperwidth{20.999cm}\setlength\paperheight{29.699cm}\setlength\voffset{-1in}\setlength\hoffset{-1in}\setlength\topmargin{1.499cm}\setlength\headheight{12pt}\setlength\headsep{0cm}\setlength\footskip{1.131cm}\setlength\textheight{25cm}\setlength\oddsidemargin{2.499cm}\setlength\textwidth{15.999cm}
+
+\begin{document}
+\begin{center}
+\hrule
+
+\vspace{.4cm}
+{\bf {\Huge Assignment 3 - Moravec's Paradox}}
+\vspace{.2cm}
+\end{center}
+{\bf Akshita Midha}  (akshitamidha08052001@gmail.com)  \\
+ \hspace{\fill}  28 July 2021 \\
+\hrule
+
+
+
+\section{Introduction}
+Moravec's Paradox, an observation of Artificial Intelligence and Robotics Researchers which was contrary to traditional assumptions, reasoning requires very little computation, but sensorimotor skills require enormous computational resources.
+
+This principle was articulated by Hans Moravec, Rodney Brooks, Marvin Minsky and other in 1980s.
+
+In 1988, Moravec said "It is comparatively easy to make computers exhibit level performance on intelligence tests or playing checkers and difficult or impossible to give them the skills of a one year old when it comes to perception and mobility. According to Minsky the most difficult human skills to res=verse engineer are those that are unconscious.
+
+\section{Biological Basis of Human Skills}
+The possible explanation for Moravec's Paradox is based on Evolution. All human skills are implemented biologically, using machinery designed by the presence of Natural Selection and it is tended to design improvements and optimizations.
+Compact expression of the arguments can be written as:
+
+1. We should expect the difficulty of reverse-engineering any human skills to be roughly proportional to the amount of ti,e that skill has been evolving in animals.
+
+2. Oldest human skills are largely unconscious and so appear us to be artificial.
+
+3. Skills that appear effortless to be different to reverse engineer but skills that require effort may not necessarily be difficult to engineer at all.
+
+\section{Historical Influence on Artificial Intelligence}
+According to the historical influence on Artificial Intelligence it was considered that logic and algebra are difficult for people and were considered as a sign of intellignece.
+
+Later Rodney Brooks decided to build intelligent machines which had "No cognition. Just sensing and action." He decided to specifically work on it and leave out what traditionally was thought of as the intelligence of AI. This was then called as "Nouvelle AI" was highly influential on robotics research and artificial intellignece.

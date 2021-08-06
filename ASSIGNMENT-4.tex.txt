@@ -1,0 +1,45 @@
+\documentclass[10pt,a4paper,twoside]{article}
+\usepackage[dutch]{babel}
+%laad de pakketten nodig om wiskunde weer te geven :
+\usepackage{amsmath,amssymb,amsfonts,textcomp}
+%laad de pakketten voor figuren :
+\usepackage{graphicx}
+\usepackage{float,flafter}
+\usepackage{hyperref}
+\usepackage{inputenc}
+%zet de bladspiegel :
+\setlength\paperwidth{20.999cm}\setlength\paperheight{29.699cm}\setlength\voffset{-1in}\setlength\hoffset{-1in}\setlength\topmargin{1.499cm}\setlength\headheight{12pt}\setlength\headsep{0cm}\setlength\footskip{1.131cm}\setlength\textheight{25cm}\setlength\oddsidemargin{2.499cm}\setlength\textwidth{15.999cm}
+
+\begin{document}
+\begin{center}
+\hrule
+
+\vspace{.4cm}
+{\bf {\Huge Assignment 4 - CHIROPRACTIC: Changing from Pseudoscience to Science using AI}}
+\vspace{.2cm}
+\end{center}
+{\bf Akshita Midha}  (akshitamidha08052001@gmail.com) 
+\hspace{\fill}  06 August 2021 \\
+\hrule
+
+
+
+\section{Introduction}
+Chiropractic, a pseudoscientific alternative medicine which is concerned with the diagnosis and treatment of the musculoskeletal system, especially the spine. People who practice chiropractic are known as chiropractors. It is generally categorized as complementary and alternative medicine which focuses on the manipulation of the musculoskeletal system, especially spine. D.D. Palmer, founder of chiropractic sciences called it as "a science of healing without drugs."
+
+\section{Chiropractic Science}
+Chiropractic Sciences mainly focuses on the treatment of musculoskeletal disorders faced by individuals which needs specific treatments as per their problems. Some problems are based on lower back pain, neck pain, headaches, extremity conditions and others without the use of drugs. This domain of science/medicine by slight use of heat and electric therapy manages to cure probems of musculoskeletal system in a short span of time.
+
+\section{Chiropractic as a Pseudoscience}
+For a large audience this is a pseudoscientific domain as of now as the study of chiropractic hasn't been specialized into science domain yet. As per the feedbacks recorded some even say that science of officially considered doctors use similar techniques for the treatment of patients along with medications or surgeries used and such statements made by the people itself starts the hypocrisy of the statement "CHIOPRACTIC IS A PSEUDOSCIENCE."
+
+\section{Possible application of AI in Chiropractic Sciences}
+Artificial Intelligence can have innumerable applications in our lives but considering its application in the pseudoscience of CHIROPRACTIC giving it a chance to build into the science that is universally acceptable. AI can come in handy there. Chiropractic treatments mostly depends on the analysis of the part that is affected. Thus, if we manage to set up a system wherein a matrix based input is allowed. In such a system, the patient will feed in the specific problem, organ affected, level of pain and some additional data required by the chiropractor. By the selection of the treatment needed by the patient making the work easier and time efficient or both the parties involved.
+
+\section{Conclusion}
+CHIROPRACTIC which is considered as pseudoscience has been accepted as a form of science by the audience itself unknowingly. This form of pseudoscience has been used along with other medications by doctors which has been considered as science. Thus, considering the facts recorded so far, even though it is considered as a pseudoscience it may be accepted as a form of science in the near future.
+
+
+
+
+\end{document}
